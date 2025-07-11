@@ -1,1 +1,1 @@
-This repository leverages Micropython-midi-library. The idea is to create a midi box using cheap microcontrollers like raspberry pico or ESP32 to store MIDI Sysex libraries for older synths. A DIY Sysex library.
+This repository leverages Circuitpython  and several libraries. The idea is to create a midi box using cheap microcontrollers like raspberry pico or ESP32 to store MIDI Sysex libraries for older synths. A DIY Sysex librarian.
